@@ -14,7 +14,7 @@ Cracha virtual criado na trilha origin da NLW Heat 2021
 <br>
 
 <p align="center">
-  <img alt="DoctorCare" src="images/previewMobile.png" width="350">
+  <img alt="cracha-nlw" src="images/previewMobile.png" width="350">
 </p>
 
 ## Site
@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 ## 💻 Projeto
-# WIP
+### WIP
 
 Made with ♥ and a lot of ☕ by Matheus Esteves
